@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Video Games
+2. Skateboarding
+3. Music
+   1. Rock
+   2. Metal
